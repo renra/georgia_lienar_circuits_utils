@@ -7,7 +7,7 @@ using namespace std;
 int main(int argc, char* argv []){
   if(argc != 5){
     cout << "This is how you should have called me: ";
-    cout << "parallel_impedance [impedance1 real] [impedance1 imag] [impedance2 real] [impedance2 imag]" << endl;
+    cout << "./parallel_impedance [impedance1 real] [impedance1 imag] [impedance2 real] [impedance2 imag]" << endl;
     cout << "Try again!" << endl;
 
     return 1;

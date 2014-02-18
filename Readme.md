@@ -13,7 +13,7 @@ impedance/rect2pol 4 3
 impedance/pol2rect 5 30
 ```
 
-Input complex numbers as the real part followed by the imaginary part. All input and output angles are in degress.
+Input complex numbers as the real part followed by the imaginary part. With using pol2rect input first the magnitude and then the phase. All input and output angles are in degress.
 
 ## TODO
 

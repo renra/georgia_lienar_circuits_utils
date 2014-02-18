@@ -7,7 +7,7 @@ using namespace std;
 int main(int argc, char* argv []){
   if(argc != 3){
     cout << "This is how you should have called me: ";
-    cout << "parallel_impedance [impedance real] [impedance imag]" << endl;
+    cout << "./pol2rect [magnitude] [phase]" << endl;
     cout << "Try again!" << endl;
 
     return 1;
