@@ -6,7 +6,7 @@ Using a calculator is slow! Use the power of your ten fingers to make the tests 
 
 ## Usage
 
-```c++
+```bash
 impedance/inverse_impedance 1 1
 impedance/parallel_impedance 1 1 2 2
 impedance/rect2pol 4 3
